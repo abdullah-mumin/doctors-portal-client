@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Flourida Treatment",
+        "key": 1,
+        "desc": "Fluoride treatments are typically professional treatments containing a high concentration of fluoride that a dentist or hygienist will apply to a person's teeth to improve health and reduce the risk of cavities.",
+        "img": ""
+    },
+    {
+        "name": "Cavity Filling",
+        "key": 2,
+        "desc": "Having a cavity filled may cause some discomfort, but it should not cause pain. Anyone who experiences moderate or severe pain during or after the procedure should let their dentist know",
+        "img": ""
+    },
+    {
+        "name": "Teath Whitening",
+        "key": 3,
+        "desc": "Everyone notices a bright, white, glowing smile. And everyone notices how confident you feel when you have that beautiful smile. That’s why we utilize long-lasting Teeth Whitening procedure — because we want you to glow with pride and confidence.",
+        "img": ""
+    }
+]
